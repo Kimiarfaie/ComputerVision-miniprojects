@@ -1,7 +1,7 @@
 # Computer Vision Assignments
 Assignments for Computer Vision Course in UGR. This repository contains implementations and solutions for various assignments focusing on image processing, machine learning, and deep learning techniques using Python, OpenCV, and Fastai. 
 
-##Overview
+## Overview
 
 **Assignment 1**
 1. Mask Discretization and Gaussian Filtering
